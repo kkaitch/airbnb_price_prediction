@@ -42,3 +42,10 @@ This is from Kaggle.
 * Values above Q3+IQR were set to Q3+IQR
 ### 4. Encoding
 * Categorical variables were label-encoded to prepare them for predictive modeling.
+
+## Key Findings
+The analysis of Airbnb listings in New York City revealed several critical insights into pricing dynamics. Location significantly impacts listing prices, with Manhattan and Brooklyn commanding the highest average prices due to their premium appeal and central accessibility. Conversely, more affordable options are concentrated in Staten Island and the Bronx, catering to budget-conscious renters. This variation in pricing highlights how location remains a key determinant of rental value in the city.
+
+Room type also plays a substantial role in pricing differences. Entire homes/apartments and private rooms dominate the market, reflecting their popularity among renters, while hotel rooms, despite being less common, are the most expensive on average. The variation in room types demonstrates how property offerings cater to diverse renter preferences, with larger or more private accommodations attracting higher rates.
+
+Correlations among numerical features provide additional insights into price determinants. Property size, represented by the number of beds, bedrooms, and baths, shows a strong positive relationship with price, indicating that larger properties command significantly higher rates. Location-based amenities, such as walk, bike, and transit scores, moderately influence pricing, as higher scores correlate with higher prices. These findings emphasize the importance of accessibility and convenience in driving rental values. However, some outliers exist, where prices deviate significantly from the expected trends, underscoring the variability in the market.
