@@ -13,6 +13,7 @@ This is from Kaggle.
 ### 1. Price Distribution
 * Range: Prices range from $10 to $90,000, with the majority of listings priced between $50 and $500.
 * Distribution: The price distribution is heavily skewed, reflecting the diversity in room types and neighborhoods.
+
 ### 2. Room Type Breakdown
 * Entire homes/apartments makeup 55.6% of listings.
 * Private rooms account for 42.4%.
